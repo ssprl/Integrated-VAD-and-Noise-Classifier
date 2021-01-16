@@ -1,0 +1,16 @@
+See file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/compileFrequencyDomainArmeabi-v7aDebugSharedLibraryFrequencyDomainArmeabi-v7aDebugSharedLibraryMainC/output.txt for all output for compileFrequencyDomainArmeabi-v7aDebugSharedLibraryFrequencyDomainArmeabi-v7aDebugSharedLibraryMainC.
+compiling Timer.c successful.
+
+compiling SpeechProcessing.c successful.
+
+compiling Transforms.c successful.
+
+compiling VADFeatures.c successful.
+
+compiling SubbandFeatures.c successful.
+
+compiling NCRandomForest.c successful.
+
+compiling VADRandomForest.c successful.
+
+Finished compileFrequencyDomainArmeabi-v7aDebugSharedLibraryFrequencyDomainArmeabi-v7aDebugSharedLibraryMainC, see full log file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/compileFrequencyDomainArmeabi-v7aDebugSharedLibraryFrequencyDomainArmeabi-v7aDebugSharedLibraryMainC/output.txt.

@@ -1,0 +1,4 @@
+See file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/linkFrequencyDomainX86DebugSharedLibrary/output.txt for all output for linkFrequencyDomainX86DebugSharedLibrary.
+linking libFrequencyDomain.so successful.
+
+Finished linkFrequencyDomainX86DebugSharedLibrary, see full log file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/linkFrequencyDomainX86DebugSharedLibrary/output.txt.

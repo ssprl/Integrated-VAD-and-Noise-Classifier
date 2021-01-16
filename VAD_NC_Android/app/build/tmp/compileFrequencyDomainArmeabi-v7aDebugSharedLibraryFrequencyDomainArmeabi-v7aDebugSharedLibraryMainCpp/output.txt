@@ -1,0 +1,6 @@
+See file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/compileFrequencyDomainArmeabi-v7aDebugSharedLibraryFrequencyDomainArmeabi-v7aDebugSharedLibraryMainCpp/output.txt for all output for compileFrequencyDomainArmeabi-v7aDebugSharedLibraryFrequencyDomainArmeabi-v7aDebugSharedLibraryMainCpp.
+compiling SuperpoweredAndroidAudioIO.cpp successful.
+
+compiling FrequencyDomain.cpp successful.
+
+Finished compileFrequencyDomainArmeabi-v7aDebugSharedLibraryFrequencyDomainArmeabi-v7aDebugSharedLibraryMainCpp, see full log file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/compileFrequencyDomainArmeabi-v7aDebugSharedLibraryFrequencyDomainArmeabi-v7aDebugSharedLibraryMainCpp/output.txt.

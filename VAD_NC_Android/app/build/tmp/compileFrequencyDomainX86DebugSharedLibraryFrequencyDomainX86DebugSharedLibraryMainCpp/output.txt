@@ -1,0 +1,6 @@
+See file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/compileFrequencyDomainX86DebugSharedLibraryFrequencyDomainX86DebugSharedLibraryMainCpp/output.txt for all output for compileFrequencyDomainX86DebugSharedLibraryFrequencyDomainX86DebugSharedLibraryMainCpp.
+compiling SuperpoweredAndroidAudioIO.cpp successful.
+
+compiling FrequencyDomain.cpp successful.
+
+Finished compileFrequencyDomainX86DebugSharedLibraryFrequencyDomainX86DebugSharedLibraryMainCpp, see full log file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/compileFrequencyDomainX86DebugSharedLibraryFrequencyDomainX86DebugSharedLibraryMainCpp/output.txt.

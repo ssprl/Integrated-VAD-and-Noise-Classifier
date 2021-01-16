@@ -1,0 +1,16 @@
+See file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/compileFrequencyDomainX86DebugSharedLibraryFrequencyDomainX86DebugSharedLibraryMainC/output.txt for all output for compileFrequencyDomainX86DebugSharedLibraryFrequencyDomainX86DebugSharedLibraryMainC.
+compiling Timer.c successful.
+
+compiling Transforms.c successful.
+
+compiling SpeechProcessing.c successful.
+
+compiling VADFeatures.c successful.
+
+compiling SubbandFeatures.c successful.
+
+compiling NCRandomForest.c successful.
+
+compiling VADRandomForest.c successful.
+
+Finished compileFrequencyDomainX86DebugSharedLibraryFrequencyDomainX86DebugSharedLibraryMainC, see full log file:///Users/abhisheksehgal/Desktop/SIPlab-UsersGuidesCodes/VAD_NC/VAD_NC_Android/app/build/tmp/compileFrequencyDomainX86DebugSharedLibraryFrequencyDomainX86DebugSharedLibraryMainC/output.txt.
