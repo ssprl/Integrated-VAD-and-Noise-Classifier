@@ -1,5 +1,7 @@
 # Integrated-VAD-and-Noise-Classifier
 
+- [User Guide](UsersGuide-IntegratedApp-VAD+NoiseClassifier.pdf)
+
 ## License and Citation
 The codes are licensed under MIT license.
 
